@@ -73,8 +73,8 @@ leukemia-gene-expression-dl/
 | 1 | Doan Ngoc Minh Chau | 23520168 | 23520168@gm.uit.edu.vn |
 | 2 | Do Hong Ngan | 23520994 | 23520994@gm.uit.edu.vn |
 
-**Supervisor:** Dr. Phan Xuan Thien
-**Institution:** University of Information Technology (UIT) — VNU-HCM
+**Supervisor:** Dr. Phan Xuan Thien  
+**Institution:** University of Information Technology (UIT) — VNU-HCM  
 **Semester:** Semester 2 — Academic Year 2025–2026
 
 ---
