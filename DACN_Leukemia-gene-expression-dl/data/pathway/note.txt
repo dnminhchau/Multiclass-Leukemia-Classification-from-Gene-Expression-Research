@@ -1,0 +1,2 @@
+Thư mục pathway/
+Chứa các file dùng để sắp xếp lại thứ tự gene theo nhóm chức năng sinh học (biological pathway) trước khi đưa vào mô hình.
